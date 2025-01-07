@@ -1,2 +1,2 @@
 # finger-detector
-testing with open cv
+testing with OpenCV, starting with singular finger detection
