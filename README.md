@@ -1,2 +1,2 @@
-# finger-motion-detector
-testing with OpenCV, starting with singular finger detection
+# motion detectors
+experimenting with OpenCV, starting with basic facial and body detection
